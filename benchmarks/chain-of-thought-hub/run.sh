@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 python run_mmlu.py --hessian --threshold 0 0.001 0.003 0.005 0.007 0.01 0.013
